@@ -1,4 +1,4 @@
 policy "prismacloud" {
-   source            = ""
+   source            = "lala/"
    enforcement_level = "hard-mandatory"
 }
